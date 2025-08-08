@@ -1,9 +1,9 @@
 .alert {
     background-color: rgb(245, 185, 231);
-    font-family: Verdana, DejaVu Sans, sans-serif; 
+    font-family: "Verdana", "DejaVu Sans", sans-serif; 
 }
 
-.alert.special {
+.special {
     font-size: 24px;
 }
 
