@@ -4,5 +4,16 @@
 }
 
 .alert.special {
+    font-size: 24px;
+}
+
+#bluey {
+    color: rgb(0, 0, 255);
     font-size: 36px;
+}
+
+#grinch {
+    background-color: rgb(0, 255, 0);
+    font-size: 24px;
+    font-weight: bold;
 }
